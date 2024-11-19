@@ -1,0 +1,26 @@
+@use 'primeflex/primeflex' as *;
+@use './reset' as *;
+@use './variables' as *;
+
+#app {
+    font-family: 'Dosis', sans-serif;
+    font-weight: normal;
+    min-width: 100vw;
+    min-height: 100vh;
+    background-color: var(--app-background);
+}
+
+.app-dark-button {
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    font-weight: bold;
+    background-color: var(--app-footer-background);
+    cursor: pointer;
+
+    &:hover {
+        background-color: var(--app-dark-button-hover);
+        transform: scale(1.05);
+        transition: 0.3s;
+    }
+}

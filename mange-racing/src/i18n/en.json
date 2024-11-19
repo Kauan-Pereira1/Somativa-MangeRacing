@@ -1,0 +1,33 @@
+{
+    "HOME": {
+        "TITLE": "Customize your motorcycle now!",
+        "ORDER": "Start customization!"
+    },
+    "FOOTER": {
+        "TECHNOLOGY": "Customize with cutting-edge technology!",
+        "PLATFORM": "The most loved customization platform!",
+        "SUPPORT": "24-hour online support!"
+    },
+    "MENU": {
+        "HOME": "Home",
+        "CUSTOMIZATION": "Customization",
+        "CART": "Cart"
+    },
+    "CATEGORIES": {
+        "TITLE": "Choose the Motorcycle Category",
+        "USER_IDEAL": "Ideal user:"
+    },
+    "CUSTOMIZATION": {
+        "TITLE": "Customize your Motorcycle!",
+        "ADD_CART": "Add to Cart",
+        "COLOR": "Choose your Color",
+        "ENGINE": "Select your Engine",
+        "ACCESSORIES": "Pick your Accessories"
+    },
+    "CART": {
+        "TITLE": "Your Customizations",
+        "TOTAL": "Total Cost:",
+        "REMOVE": "Remove",
+        "EMPTY": "Your cart is empty."
+    }
+}

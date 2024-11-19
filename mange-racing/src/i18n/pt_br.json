@@ -1,0 +1,33 @@
+{
+    "HOME": {
+        "TITLE": "Customize sua moto agora!",
+        "ORDER": "Iniciar personalização!"
+    },
+    "FOOTER": {
+        "TECHNOLOGY": "Personalize com tecnologia de ponta!",
+        "PLATFORM": "A plataforma de customização mais amada!",
+        "SUPPORT": "Atendimento online 24 horas!"
+    },
+    "MENU": {
+        "HOME": "Início",
+        "CUSTOMIZATION": "Customização",
+        "CART": "Carrinho"
+    },
+    "CATEGORIES": {
+        "TITLE": "Escolha a Categoria de Moto",
+        "USER_IDEAL": "Usuário Ideal:"
+    },
+    "CUSTOMIZATION": {
+        "TITLE": "Customize sua Moto!",
+        "ADD_CART": "Adicionar ao Carrinho",
+        "COLOR": "Escolha sua Cor",
+        "ENGINE": "Selecione o Motor",
+        "ACCESSORIES": "Escolha os Acessórios"
+    },
+    "CART": {
+        "TITLE": "Suas Customizações",
+        "TOTAL": "Custo Total:",
+        "REMOVE": "Remover",
+        "EMPTY": "Seu carrinho está vazio."
+    }
+}
