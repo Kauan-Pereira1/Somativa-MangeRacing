@@ -11,11 +11,39 @@
     "MENU": {
         "HOME": "Início",
         "CUSTOMIZATION": "Customização",
-        "CART": "Carrinho"
+        "CART": "Carrinho",
+        "CATEGORIES": "Categorias",
+        "SALES": "Vendas",
+        "LOGOUT": "Sair"
     },
     "CATEGORIES": {
         "TITLE": "Escolha a Categoria de Moto",
-        "USER_IDEAL": "Usuário Ideal:"
+        "DESCRIPTION": "Encontre a categoria perfeita que combina com seu estilo e necessidades.",
+        "USER_IDEAL": "Usuário Ideal:",
+        "TOURING": {
+            "DESCRIPTION": "Motos projetadas para viagens longas com conforto e estabilidade.",
+            "IDEAL_USER": "Pessoas que amam viajar longas distâncias e valorizam o conforto nas estradas."
+        },
+        "CUSTOM": {
+            "DESCRIPTION": "Motos com designs personalizáveis, estilo clássico e baixa altura do assento.",
+            "IDEAL_USER": "Entusiastas de design que buscam uma moto única e personalizada."
+        },
+        "SPORT": {
+            "DESCRIPTION": "Motos de alto desempenho focadas em velocidade, aerodinâmica e manobrabilidade.",
+            "IDEAL_USER": "Fãs de velocidade e adrenalina."
+        },
+        "TRAIL": {
+            "DESCRIPTION": "Projetadas para aventuras fora da estrada com suspensão reforçada e pneus para terrenos difíceis.",
+            "IDEAL_USER": "Aventureiros que gostam de explorar trilhas e terrenos desafiadores."
+        },
+        "NAKED": {
+            "DESCRIPTION": "Motos urbanas com design minimalista e manobrabilidade ágil, sem carenagens.",
+            "IDEAL_USER": "Motociclistas urbanos que priorizam praticidade e estilo."
+        },
+        "SCOOTER": {
+            "DESCRIPTION": "Motos pequenas e práticas, ideais para deslocamentos curtos e economia de combustível.",
+            "IDEAL_USER": "Pessoas que buscam economia e facilidade no trânsito."
+        }
     },
     "CUSTOMIZATION": {
         "TITLE": "Customize sua Moto!",
@@ -28,6 +56,16 @@
         "TITLE": "Suas Customizações",
         "TOTAL": "Custo Total:",
         "REMOVE": "Remover",
-        "EMPTY": "Seu carrinho está vazio."
+        "EMPTY": "Seu carrinho está vazio.",
+        "FRONT_IMAGE": "Imagem da Frente",
+        "MOTOR_IMAGE": "Imagem do Motor",
+        "FRONT_WHEEL_IMAGE": "Imagem da Roda da Frente",
+        "REAR_WHEEL_IMAGE": "Imagem da Roda Traseira"
+    },
+    "LOGIN": {
+        "TITLE": "Faça login para continuar",
+        "USERNAME": "Usuário",
+        "PASSWORD": "Senha",
+        "LOGIN": "Entrar"
     }
 }

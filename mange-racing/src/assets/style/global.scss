@@ -24,3 +24,56 @@
         transition: 0.3s;
     }
 }
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+}
+
+.main {
+    padding: 1rem;
+}
+
+/* Estilo para telas pequenas */
+@media (max-width: 768px) {
+    .home {
+        flex-direction: column;
+        padding: 1rem;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .app-dark-button {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .moto-image {
+        max-width: 100%;
+        height: auto;
+    }
+}
+
+/* Estilo para telas maiores */
+@media (min-width: 769px) {
+    .home {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    h1 {
+        font-size: 2rem;
+    }
+
+    .app-dark-button {
+        width: 15rem;
+    }
+
+    .moto-image {
+        max-width: 600px;
+    }
+}

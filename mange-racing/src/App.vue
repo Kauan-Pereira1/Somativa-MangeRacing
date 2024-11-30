@@ -11,7 +11,6 @@ import Menu from '@/components/Menu.vue';
 </template>
 
 <style scoped>
-/* Centralização para a aplicação */
 #app {
   display: flex;
   flex-direction: column;

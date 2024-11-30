@@ -1,0 +1,15 @@
+Usuarios e Senhas para acessar aplicação:
+
+cliente: [
+    { username: 'cliente1', password: '1234' },
+    { username: 'cliente2', password: '5678' },
+    { username: 'andre', password: 'andre' },
+  ],
+  vendedor: [
+    { username: 'vendedor1', password: 'abcd' },
+    { username: 'vendedor2', password: 'efgh' },
+    { username: 'kauan', password: 'kauan' },
+  ]
+
+
+Peço para que recarregue a página após fazer login, por algum motivo, os icones não estão atualizando automaticamente.

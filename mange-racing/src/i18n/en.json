@@ -11,11 +11,39 @@
     "MENU": {
         "HOME": "Home",
         "CUSTOMIZATION": "Customization",
-        "CART": "Cart"
+        "CART": "Cart",
+        "CATEGORIES": "Categories",
+        "SALES": "Sales",
+        "LOGOUT": "Logout"
     },
     "CATEGORIES": {
         "TITLE": "Choose the Motorcycle Category",
-        "USER_IDEAL": "Ideal user:"
+        "DESCRIPTION": "Find the perfect category that suits your style and needs.",
+        "USER_IDEAL": "Ideal User:",
+        "TOURING": {
+            "DESCRIPTION": "Motorcycles designed for long-distance trips with comfort and stability.",
+            "IDEAL_USER": "People who love traveling long distances and value comfort on highways."
+        },
+        "CUSTOM": {
+            "DESCRIPTION": "Motorcycles with customizable designs, classic style, and low seat height.",
+            "IDEAL_USER": "Design enthusiasts who seek a unique and personalized motorcycle."
+        },
+        "SPORT": {
+            "DESCRIPTION": "High-performance motorcycles focused on speed, aerodynamics, and maneuverability.",
+            "IDEAL_USER": "Fans of speed and adrenaline."
+        },
+        "TRAIL": {
+            "DESCRIPTION": "Designed for off-road adventures with reinforced suspension and tires for rough terrain.",
+            "IDEAL_USER": "Adventurers who enjoy exploring trails and challenging terrains."
+        },
+        "NAKED": {
+            "DESCRIPTION": "Urban motorcycles with a minimalist design and agile handling, without fairings.",
+            "IDEAL_USER": "Urban riders who prioritize practicality and style."
+        },
+        "SCOOTER": {
+            "DESCRIPTION": "Small and practical motorcycles, ideal for short trips and fuel efficiency.",
+            "IDEAL_USER": "Commuters seeking economy and ease in traffic."
+        }
     },
     "CUSTOMIZATION": {
         "TITLE": "Customize your Motorcycle!",
@@ -28,6 +56,16 @@
         "TITLE": "Your Customizations",
         "TOTAL": "Total Cost:",
         "REMOVE": "Remove",
-        "EMPTY": "Your cart is empty."
+        "EMPTY": "Your cart is empty.",
+        "FRONT_IMAGE": "Front Image",
+        "MOTOR_IMAGE": "Motor Image",
+        "FRONT_WHEEL_IMAGE": "Front Wheel Image",
+        "REAR_WHEEL_IMAGE": "Rear Wheel Image"
+    },
+    "LOGIN": {
+        "TITLE": "Log in to continue",
+        "USERNAME": "Username",
+        "PASSWORD": "Password",
+        "LOGIN": "Log In"
     }
 }
